@@ -13,6 +13,7 @@ uwuizer = "0.1.1"
 ```
 ``example.rs`` :
 ```rust
+#[macro_use(uwuize)]
 use uwuizer::*;
 
 fn main() {

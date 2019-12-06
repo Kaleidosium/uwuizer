@@ -1,3 +1,6 @@
+extern crate regex;
+extern crate rand;
+
 /// Macro that UwUizes a String
 ///
 /// # Examples
