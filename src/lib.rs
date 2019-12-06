@@ -9,7 +9,6 @@
 #[macro_export]
 macro_rules! uwuize {
     ($x:expr) => {{
-        use rand::prelude::*;
         use regex::Regex;
         use std::str::FromStr;
         use rand::seq::IteratorRandom;
