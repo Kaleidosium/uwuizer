@@ -1,8 +1,14 @@
 [package]
 name = "uwuizer"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["iamrifki <iamrifki0@gmail.com>"]
 edition = "2018"
+license = "MIT"
+description = "Rust Macro to UwUize your text. UwU."
+readme = "README.md"
+documentation = "https://docs.rs/uwuizer/"
+repository = "https://github.com/IamRifki/uwuizer"
+keywords = ["Macro", "Fun", "UwU"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
