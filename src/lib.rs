@@ -1,5 +1,5 @@
-extern crate regex;
-extern crate rand;
+pub extern crate regex;
+pub extern crate rand;
 
 /// Macro that UwUizes a String
 ///

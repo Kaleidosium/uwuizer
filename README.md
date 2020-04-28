@@ -9,9 +9,7 @@ Add this to ``Cargo.toml``:
 
 ```toml
 [dependencies]
-uwuizer = "0.2.0"
-regex = "1.3.1"
-rand = "0.7.2"
+uwuizer = "0.2.1"
 ```
 ``example.rs`` :
 ```rust
@@ -24,4 +22,4 @@ fn main() {
 ```
 
 ## Documentation
-https://docs.rs/uwuizer/0.1.0/uwuizer/
+https://docs.rs/uwuizer/0.2.1/uwuizer/
