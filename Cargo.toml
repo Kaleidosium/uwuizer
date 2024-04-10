@@ -1,17 +1,17 @@
 [package]
 name = "uwuizer"
-version = "0.2.1"
-authors = ["iamrifki <iamrifki0@gmail.com>"]
-edition = "2018"
-license = "MIT"
+version = "0.3.0"
+authors = ["kaleidosium <atomicnumberphi@gmail.com>"]
+edition = "2021"
+license = "UNLICENSE"
 description = "Rust Macro to UwUize your text. UwU."
 readme = "README.md"
 documentation = "https://docs.rs/uwuizer/"
-repository = "https://github.com/IamRifki/uwuizer"
-keywords = ["Macro", "Fun", "UwU"]
+repository = "https://github.com/Kaleidosium/uwuizer"
+keywords = ["Macro", "Fun", "UwU", "OwO"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 regex = "1"
-rand = "0.7"
+rand = "0.8"

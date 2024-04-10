@@ -2,14 +2,14 @@
 Rust Macro to UwUize your text. UwU.
 
 Inspired by:
-* [owo text generator](https://honk.moe/tools/owo.html)
+* [owo text generator](https://original.honk.moe/tools/owo.html)
 
 ## Usage
 Add this to ``Cargo.toml``:
 
 ```toml
 [dependencies]
-uwuizer = "0.2.1"
+uwuizer = "0.3.0"
 ```
 ``example.rs`` :
 ```rust
@@ -22,4 +22,4 @@ fn main() {
 ```
 
 ## Documentation
-https://docs.rs/uwuizer/0.2.1/uwuizer/
+https://docs.rs/uwuizer/0.3.0/uwuizer/
